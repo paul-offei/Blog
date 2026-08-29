@@ -1,12 +1,12 @@
-ceksudo:
+po:
   name: PAUL OFFEI
-  title: Team Lead @ TexkLab
+  title: Member of Technical Team @ TexkLab
   url: https://poatai.netlify.app
-  image_url: https://github.com/ceksudo.png
+  image_url: https://github.com/paul-offei.png
   page: true
   socials:
-    linkedin: ceksudo
-    github: ceksudo
-    x: ceksudo
-    website: https://poatai.netlify.app
+    linkedin: poffei
+    github: paul-offei
+    x: am_paul_offei
+    website: https://pauloffei.netlify.app
 
